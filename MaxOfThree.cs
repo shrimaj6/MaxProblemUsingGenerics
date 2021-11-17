@@ -4,22 +4,22 @@ using System.Text;
 
 namespace MaxProblemUsingGenerics
 {
-    public class MaxOfThree
+    public class MaxFloats
     {
 
-        public void ReturnMax(int n1, int n2, int n3)
+        public void ReturnMax(double v1, double v2, double v3)
         {
-            if (n1.CompareTo(n2) > 0 && n1.CompareTo(n3) > 0 || n1.CompareTo(n2) >= 0 && n1.CompareTo(n3) > 0 || n1.CompareTo(n2) > 0 && n1.CompareTo(n3) >= 0)
+            if (v1.CompareTo(v2) > 0 && v1.CompareTo(v3) > 0 || v1.CompareTo(v2) >= 0 && v1.CompareTo(v3) > 0 || v1.CompareTo(v2) > 0 && v1.CompareTo(v3) >= 0)
             {
-                Console.WriteLine(n1 + " is greter than " + n2 + " " + n3);
+                Console.WriteLine(v1 + " is greter than " + v2 + " " + v3);
             }
-            else if (n2.CompareTo(n1) > 0 && n2.CompareTo(n3) > 0 || n2.CompareTo(n1) >= 0 && n2.CompareTo(n3) > 0 || n2.CompareTo(n1) > 0 && n2.CompareTo(n3) >= 0)
+            else if (v2.CompareTo(v1) > 0 && v2.CompareTo(v3) > 0 || v2.CompareTo(v1) >= 0 && v2.CompareTo(v3) > 0 || v2.CompareTo(v1) > 0 && v2.CompareTo(v3) >= 0)
             {
-                Console.WriteLine(n2 + " is greter than " + n1 + " " + n3);
+                Console.WriteLine(v2 + " is greter than " + v1 + " " + v3);
             }
-            else if (n3.CompareTo(n1) > 0 && n3.CompareTo(n2) > 0 || n3.CompareTo(n2) >= 0 && n3.CompareTo(n1) > 0 || n3.CompareTo(n2) > 0 && n3.CompareTo(n2) >= 0)
+            else if (v3.CompareTo(v1) > 0 && v3.CompareTo(v2) > 0 || v3.CompareTo(v2) >= 0 && v3.CompareTo(v1) > 0 || v3.CompareTo(v2) > 0 && v3.CompareTo(v2) >= 0)
             {
-                Console.WriteLine(n3 + " is greter than " + n2 + " " + n1);
+                Console.WriteLine(v3 + " is greter than " + v2 + " " + v1);
             }
         }
     }

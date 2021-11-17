@@ -1,0 +1,14 @@
+D:\MaxProblemUsingGenerics\bin\Debug\netcoreapp3.1\MaxProblemUsingGenerics.exe
+D:\MaxProblemUsingGenerics\bin\Debug\netcoreapp3.1\MaxProblemUsingGenerics.deps.json
+D:\MaxProblemUsingGenerics\bin\Debug\netcoreapp3.1\MaxProblemUsingGenerics.runtimeconfig.json
+D:\MaxProblemUsingGenerics\bin\Debug\netcoreapp3.1\MaxProblemUsingGenerics.runtimeconfig.dev.json
+D:\MaxProblemUsingGenerics\bin\Debug\netcoreapp3.1\MaxProblemUsingGenerics.dll
+D:\MaxProblemUsingGenerics\bin\Debug\netcoreapp3.1\MaxProblemUsingGenerics.pdb
+D:\MaxProblemUsingGenerics\obj\Debug\netcoreapp3.1\MaxProblemUsingGenerics.csproj.AssemblyReference.cache
+D:\MaxProblemUsingGenerics\obj\Debug\netcoreapp3.1\MaxProblemUsingGenerics.GeneratedMSBuildEditorConfig.editorconfig
+D:\MaxProblemUsingGenerics\obj\Debug\netcoreapp3.1\MaxProblemUsingGenerics.AssemblyInfoInputs.cache
+D:\MaxProblemUsingGenerics\obj\Debug\netcoreapp3.1\MaxProblemUsingGenerics.AssemblyInfo.cs
+D:\MaxProblemUsingGenerics\obj\Debug\netcoreapp3.1\MaxProblemUsingGenerics.csproj.CoreCompileInputs.cache
+D:\MaxProblemUsingGenerics\obj\Debug\netcoreapp3.1\MaxProblemUsingGenerics.dll
+D:\MaxProblemUsingGenerics\obj\Debug\netcoreapp3.1\MaxProblemUsingGenerics.pdb
+D:\MaxProblemUsingGenerics\obj\Debug\netcoreapp3.1\MaxProblemUsingGenerics.genruntimeconfig.cache
